@@ -1,0 +1,30 @@
+p.aviso{
+	color: red
+}
+p.letra{
+	font-style: oblique;
+}
+h4.border{
+	border: green 3px dotted;
+}
+#button {
+	padding: 1;
+}
+#button li {
+	display: inline;
+}
+#button li a {
+	font-family: Arial;
+	font-size: 15px;
+	text-decoration: none;
+	float: left;
+	padding: 12px;
+	background-color: #2175bc;
+	color: black;
+}
+#pall{
+	width: 350px;
+	border: 1px solid black;
+	text-align: justify;
+	paddinfg: 10px;
+}
